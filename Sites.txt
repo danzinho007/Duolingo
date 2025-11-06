@@ -1,0 +1,7 @@
+Duolingo_Sites:
+
+Principal
+https://pt.duolingo.com/
+
+Estatísticas
+https://duome.eu/danmorishi1
